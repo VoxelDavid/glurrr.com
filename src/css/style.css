@@ -8,10 +8,10 @@ body,
 body {
   font-size: 1.3em;
   line-height: 1.3em;
-  font-family: "Droid Sans";
+  font-family: "Roboto", sans-serif;
 
-  color: #efefef;
-  text-shadow: 0 2px 1px #270050;
+  color: #ebebeb;
+  text-shadow: 0 0 5px #13001f;
 
   background-image: url("../img/square_bg.png");
   background-color: #a465bf;
