@@ -30,8 +30,6 @@ body {
 .inner {
   margin: 0 auto;
   max-width: 28em;
-  position: relative;
-  width: 80%;
 }
 
 .logo {
