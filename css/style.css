@@ -1,0 +1,44 @@
+html,
+body,
+.overload-container {
+  height: 100%;
+  max-height: 100%;
+}
+
+body {
+  font-size: 1.3em;
+  line-height: 1.3em;
+  font-family: "Droid Sans";
+
+  color: #efefef;
+  text-shadow: 0 2px 1px #270050;
+
+  background-image: url("../img/square_bg.png");
+  background-color: #a465bf;
+}
+
+.container {
+  display: table;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.vertical {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.inner {
+  margin: 0 auto;
+  max-width: 28em;
+  position: relative;
+  width: 80%;
+}
+
+.logo {
+  height: 208px;
+  width:  256px;
+  display: inline-block;
+  background-image: url("../img/glurrr.png");
+}
