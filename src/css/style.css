@@ -13,6 +13,7 @@ body {
 
   /* http://subtlepatterns.com/bright-squares/*/
   background-image: url("../img/bright_squares.png");
+  background-color: #a465bf;
 }
 
 ::-moz-selection {
