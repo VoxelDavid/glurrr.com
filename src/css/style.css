@@ -15,6 +15,18 @@ body {
   background-image: url("../img/bright_squares.png");
 }
 
+::-moz-selection {
+  color: #f0f0f0;
+  background: #d24be3;
+  text-shadow: none;
+}
+
+::selection {
+  color: #f0f0f0;
+  background: #d24be3;
+  text-shadow: none;
+}
+
 .container {
   display: table;
   text-align: center;
