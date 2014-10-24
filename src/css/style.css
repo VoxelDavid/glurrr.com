@@ -44,7 +44,7 @@ body {
   max-width: 28em;
 }
 
-.logo {
+.glurrr {
   height: 208px;
   width:  256px;
   display: inline-block;
@@ -52,7 +52,7 @@ body {
   transition: transform .2s ease;
 }
 
-.logo:active {
+.glurrr:active {
   transform:         scale(.85, .85);
   -webkit-transform: scale(.85, .85);
   -moz-transform:    scale(.85, .85);
