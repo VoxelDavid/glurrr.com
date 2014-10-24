@@ -11,8 +11,8 @@ body {
   color: #ebebeb;
   text-shadow: 0 0 5px #13001f;
 
-  background-image: url("../img/square_bg.png");
-  background-color: #a465bf;
+  /* http://subtlepatterns.com/bright-squares/*/
+  background-image: url("../img/bright_squares.png");
 }
 
 .container {
