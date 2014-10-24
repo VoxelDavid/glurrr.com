@@ -37,4 +37,13 @@ body {
   width:  256px;
   display: inline-block;
   background-image: url("../img/glurrr.png");
+  transition: transform .2s ease;
+}
+
+.logo:active {
+  transform:         scale(.85, .85);
+  -webkit-transform: scale(.85, .85);
+  -moz-transform:    scale(.85, .85);
+  -ms-transform:     scale(.85, .85);
+  -o-transform:      scale(.85, .85);
 }
